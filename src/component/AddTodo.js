@@ -52,7 +52,7 @@ class AddTodo extends Component {
         color="primary"
         data-testid="new-item-button"
       >
-        Add
+        Button
       </Button>
         </div>
       );
